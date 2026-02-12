@@ -2,7 +2,7 @@
  
 - 👨‍💻 **Backend Developer** who enjoys building things from the ground up
 - 💪 **Strengths:** Python, GenAI & Cloud with a heavy focus on GenAI applications on GCP
-- 👨🏽‍💻 **LLM Speciailist @ Google Cloud** Helping customers architect, develop and deploy GenAI applications on GCP
+- 👨🏽‍💻 **AI/ML Engineer@ Tiger Analytics** Helping customers to build, develop, and deploy GenAI applications on GCP
 
 **What would you like to know more about?**
 1. [Projects 👷](#projects-%EF%B8%8F) 
