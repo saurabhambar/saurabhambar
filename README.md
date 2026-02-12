@@ -43,7 +43,7 @@ This is a web application crawling Linkedin & Twitter data about a person and cu
 I want to empower the planet and its people through building amazing products.
 - 🔗 **LinkedIn** : https://www.linkedin.com/in/saurabhambar/
 - 𝕏 🐤 **Twitter** : https://twitter.com/sauravambar
-- <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/46747b8a-429c-43e0-87fc-da0cf914610a" /> **Topmate** : topmate.io/saurabhambar
+- 🎯 **Topmate** : topmate.io/saurabhambar
 
 
 
